@@ -1,0 +1,16 @@
+h1 {
+	font-family: sans-serif;
+	color: #C1A300;
+	background-color: #F0F0F0;
+	font-size: 30pt;
+	text-align: center;
+}
+body{
+	color: #404040;
+	font-size: 15pt;
+	font-family: Georgia,Garamond, serif;
+}
+
+ul {
+    list-style-image: url('http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif');
+}
